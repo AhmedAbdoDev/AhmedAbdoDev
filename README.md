@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdodev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdodev" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+<!-- - 🌱 I’m currently learning **Frameworks** -->
 
 - 💬 Ask me about **Node.js, React.js**
 
